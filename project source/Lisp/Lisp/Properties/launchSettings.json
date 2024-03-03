@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lisp": {
+      "commandName": "Project",
+      "commandLineArgs": "main.lsp"
+    }
+  }
+}

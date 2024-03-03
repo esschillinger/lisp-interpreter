@@ -1,0 +1,15 @@
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\bin\Debug\net6.0\Lisp.exe
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\bin\Debug\net6.0\Lisp.deps.json
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\bin\Debug\net6.0\Lisp.runtimeconfig.json
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\bin\Debug\net6.0\Lisp.dll
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\bin\Debug\net6.0\Lisp.pdb
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\Lisp.csproj.AssemblyReference.cache
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\Lisp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\Lisp.AssemblyInfoInputs.cache
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\Lisp.AssemblyInfo.cs
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\Lisp.csproj.CoreCompileInputs.cache
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\Lisp.dll
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\refint\Lisp.dll
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\Lisp.pdb
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\Lisp.genruntimeconfig.cache
+C:\Users\eschillinger\OneDrive - The University of Alabama\S5\CS 503\Lisp\source\Lisp\Lisp\obj\Debug\net6.0\ref\Lisp.dll
